@@ -1,0 +1,9 @@
+
+example@test.ru   $2y$10$HkuSqjjICyKVPd.RYWBMaeaFESwl5RVpJdRFExtXG.DTLyI8P3QdK
+---
+test@test.com   $2y$10$SZgQClgnq1kvOBCv./1D2.cEPjoi7nkVpAyTRo4RRWghLQ5sUPtA.
+---
+mail@example.net   $2y$10$FaJsfCvGx.Yy.oxfRWqWEeXzCS8/7wYpTdJTutfl62Aa2qiIifF7a
+---
+example@test.ru   $2y$10$LyZERClRL1GILQoLYTKvBeQVBf6dJBFPL3OTjGvz4jHn6R5yhlY7a
+---
